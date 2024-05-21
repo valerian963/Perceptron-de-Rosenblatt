@@ -2,8 +2,8 @@
 <h1 align="center">
     Perceptron-de-Rosenblatt
 </h1>
-<p align="center"> Este projeto implementa o algoritmo de Perceptron de Rosenblatt para resolver problemas de classificação
-
+<p align="center"> Projeto prático 2.1 realizado na disciplina de Redes Neurais Artificiais
+    
 Este projeto implementa o algoritmo de Perceptron de Rosenblatt para resolver problemas de classificação, e é dividido em três partes principais:
 <!--ts-->
    * Parte I: Resolvendo um Problema Linearmente Separável
