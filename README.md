@@ -11,10 +11,15 @@ Parte II: Experimentação
 Parte III: Validação Holdout em Problema Não-Linearmente Separável
 Estrutura do Projeto
 
-parte_I/: Contém os scripts e dados para resolver um problema linearmente separável.
-parte_II/: Inclui os arquivos específicos de cada equipe para a experimentação.
-parte_III/: Contém os scripts e dados para validação holdout em um problema não-linearmente separável.
-<h2 align="center">
+<!--ts-->
+   * Parte_I: Contém os scripts e dados para resolver um problema linearmente separável.
+   * Parte_II: Inclui os arquivos específicos de cada equipe para a experimentação.
+   * Parte_III: Contém os scripts e dados para validação holdout em um problema não-linearmente separável.
+<!--te-->
+
+
+
+<h2 align="left">
     Requisitos
 </h2>
 Python 3.8+
