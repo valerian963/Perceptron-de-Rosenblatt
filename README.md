@@ -15,10 +15,10 @@ Este projeto implementa o algoritmo de Perceptron de Rosenblatt para resolver pr
     Requisitos
 </h2>
 <p align="center">
- • <a href="#objetivo">Python 3.8+</a> •
- <a href="#roadmap">numpy</a> • 
- <a href="#tecnologias">matplotlib</a> • 
- <a href="#contribuicao">pandas</a> • 
+ • <a href="https://www.python.org/">Python 3.8+</a> •
+ <a href="https://numpy.org/">numpy</a> • 
+ <a href="https://matplotlib.org/">matplotlib</a> • 
+ <a href="https://pandas.pydata.org/">pandas</a> • 
 </p>
 
 
