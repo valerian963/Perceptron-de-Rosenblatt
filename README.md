@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    Perceptron-de-Rosenblatt
+    Aprendizado Supervisionado no Neurônio Perceptron de Rosenblatt
 </h1>
 <p align="center"> Projeto prático 2.1 realizado na disciplina de Redes Neurais Artificiais
     
